@@ -1,0 +1,62 @@
+[
+  {
+    "userId": "05",
+    "userHandle": "kasabov",
+    "userName": "Alex K",
+    "profileImage": "https://plus.unsplash.com/premium_photo-1689977807477-a579eda91fa2?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "time": "2024-12-24T15:30:00",
+    "likes": 5240,
+    "comments": 1345,
+    "bookmarks": 362,
+    "isLiked": false,
+    "post": "https://img.freepik.com/free-photo/view-beautiful-rainbow-appearing-end-road_23-2151562992.jpg?t=st=1735020241~exp=1735023841~hmac=7a957f53ddc74dee5b202c8b113325ec3f2cb04133281ab0616f0011e0eef646&w=1800"
+  },
+  {
+    "userId": "04",
+    "userHandle": "rizknas",
+    "userName": "Rizknas",
+    "profileImage": "https://images.unsplash.com/photo-1445053023192-8d45cb66099d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "time": "2024-12-23T21:30:00",
+    "likes": 5240,
+    "comments": 1345,
+    "bookmarks": 362,
+    "isLiked": true,
+    "post": "https://img.freepik.com/free-photo/mountain-landscape-with-fantasy-style-scene_23-2151125011.jpg?t=st=1735020282~exp=1735023882~hmac=21fe28b2b2537fb6e37bc301e974e9aa51e2398a5d092209e4208c6153fd580a&w=1800"
+  },
+  {
+    "userId": "03",
+    "userHandle": "dakoptelova",
+    "userName": "Daria Koptelova",
+    "profileImage": "https://images.unsplash.com/photo-1521566652839-697aa473761a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D",
+    "time": "2024-12-23T16:49:00",
+    "likes": 5240,
+    "comments": 1345,
+    "bookmarks": 362,
+    "isLiked": false,
+    "post": "https://img.freepik.com/free-photo/fantasy-style-scene-with-mountains-landscape_23-2151124298.jpg?t=st=1735020305~exp=1735023905~hmac=6ab9f9d69008985dde5489453ca2d749d94e307bfd49551f1289fe6fce2a06ca&w=1800"
+  },
+  {
+    "userId": "02",
+    "userHandle": "never_try_never_know",
+    "userName": "Niko Ruthardt",
+    "profileImage": "https://images.unsplash.com/photo-1530452540414-c17a65a637fe?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+    "time": "2024-12-23T14:21:00",
+    "likes": 5240,
+    "comments": 1345,
+    "bookmarks": 362,
+    "isLiked": false,
+    "post": "https://img.freepik.com/free-photo/digital-art-southwest-landscape_23-2151785608.jpg?t=st=1735020379~exp=1735023979~hmac=2bf36839a2cccf2da6d2083beac5238d65f03c54e94f9b069825999de706e88d&w=1800"
+  },
+  {
+    "userId": "01",
+    "userHandle": "zanonluca",
+    "userName": "Luca Zanon",
+    "profileImage": "https://images.unsplash.com/photo-1542385262-cdf06b302c2c?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "time": "2024-12-22T22:48:00",
+    "likes": 5240,
+    "comments": 1345,
+    "bookmarks": 362,
+    "isLiked": true,
+    "post": "https://img.freepik.com/free-photo/green-field-tree-blue-skygreat-as-backgroundweb-banner-generative-ai_1258-158302.jpg?t=st=1735020072~exp=1735023672~hmac=84b5975a225e5b5ee0b45046064556869b6cb5125852bd98d7d371abd2a9d681&w=2000"
+  }
+]
